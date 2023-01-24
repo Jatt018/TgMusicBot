@@ -9,7 +9,7 @@
         "pytgcalls",
         "tgvcbot"
     ],
-    "repository": "https://github.com/kursadHD/TgMusicBot",
+    "repository": "https://github.com/Jatt018/TgMusicBot?organization=Jatt018&organization=Jatt018",
     "stack": "container",
     "env": {
         "SESSION": {
